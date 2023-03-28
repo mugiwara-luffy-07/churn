@@ -1,0 +1,6 @@
+streamlit == 1.12.0
+pandas == 1.5.2
+PIL <=  3.2
+pickle <= 4.0
+numpy  <= 4.0
+scikit-learn <= 4.0
